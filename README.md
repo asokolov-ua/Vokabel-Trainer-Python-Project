@@ -6,3 +6,7 @@ Features:
 - Vocabulary training
 - Statistics
 - Score tracking
+
+Namen:  Anton Sokolov 
+        Vladyslav Yaroshevskyi
+
