@@ -1,0 +1,5 @@
+Apfel;Apple
+Auto;Car
+Katze;Cat
+Hund;Dog
+Tisch;Table

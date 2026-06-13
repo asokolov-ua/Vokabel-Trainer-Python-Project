@@ -13,5 +13,5 @@ class Vokabel:
         return f"{self.deutsch} -> {self.english}"
 
 
-wort = Vokabel("Apfel", "Apple")
-print(wort)
+# wort = Vokabel("Apfel", "Apple")
+# print(wort)
