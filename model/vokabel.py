@@ -1,14 +1,18 @@
 class Vokabel:
+
+    # Erstellt eine Vokabelkarte
     def __init__(self, deutsch, english):
         self.deutsch = deutsch
         self.english = english
 
+    # Prüft die Antwort des Benutzers
     def pruefe(self, antwort):
-        antwort = antwort.strip.lower() #löscht alle Abstände und macht alle Buchstaben klein
-
+        # Entfernt Leerzeichen und wandelt in Kleinbuchstaben um
+        antwort = antwort.strip().lower() #löscht alle Abstände und macht alle Buchstaben klein
+        # Vergleicht die Antwort mit der Übersetzung
         return antwort == self.english.lower()
 
-    # Defines how the vocabulary is displayed as text
+    # Bestimmt die Textdarstellung des Objekts
     def __str__(self):
         return f"{self.deutsch} -> {self.english}"
 
