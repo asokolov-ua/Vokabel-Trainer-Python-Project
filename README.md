@@ -9,5 +9,5 @@ Features:
 
 Namen:  Anton Sokolov 
         Vladyslav Yaroshevskyi
-        Kurs 26TIG2 Informatic
+        Kurs 26TIG2 Informatik
 
